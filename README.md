@@ -19,6 +19,3 @@
 <br>
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{bedirhanayydin}/count.svg" alt="bedirhanayydin :: Visitor's Count" /></p>
